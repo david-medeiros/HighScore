@@ -1,0 +1,6 @@
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\bin\Debug\HighScore.exe.config
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\bin\Debug\HighScore.exe
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\bin\Debug\HighScore.pdb
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\obj\Debug\HighScore.csprojResolveAssemblyReference.cache
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\obj\Debug\HighScore.exe
+c:\users\david.medeiros\documents\visual studio 2015\Projects\HighScore\HighScore\obj\Debug\HighScore.pdb
